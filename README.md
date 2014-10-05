@@ -1,4 +1,5 @@
 # bootstrap - [AngularJS](http://angularjs.org/) directives specific to [Bootstrap](http://getbootstrap.com)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/roymcfarland/bootstrap-1?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ***
 
